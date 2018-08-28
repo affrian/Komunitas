@@ -1,0 +1,19 @@
+OUTLINE MAKALAH WEB PROGRAMMING II
+
+BAB I   PENDAHULUAN	
+1.1. Latar Belakang Masalah 		
+1.2. Identifikasi Masalah 		
+1.3. Perumusan Masalah 		
+1.4. Maksud dan Tujuan 
+1.5. Ruang Lingkup
+
+BAB II   LANDASAN TEORI	
+2.1. Tinjauan Pustaka		
+2.2. Penelitian Terkait
+
+BAB III   PEMBAHASAN	
+
+BAB V   PENUTUP	
+4.1. Kesimpulan
+4.2. Saran
+		

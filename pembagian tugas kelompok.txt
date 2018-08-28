@@ -1,0 +1,85 @@
+Kelompok 1
+1. index
+2. koneksi
+3. navbar
+4. home
+5. visimisi
+
+Kelompok 2
+1. galeri
+2. kontak
+3. kontak_simpan
+4. footer
+5. bottom
+
+Kelompok 3
+1. artikel
+2. navbar_artikel
+3. artikel_detail
+4. berita
+5. like
+
+Kelompok 4
+1. daftar
+2. daftar_cetak
+3. daftar_simpan
+4. cetak
+5. login
+6. logout
+
+Kelompok 5
+1. forum
+2. navbar-forum
+3. forum_member_profil
+4. forum_teman
+5. forum_teman_cari
+
+Kelompok 6
+1. forum_profil
+2. forum_profil_cetak
+3. forum_profil_edit
+4. forum_profil_teman
+5. forum_profil_update
+6. forum_profil_updatestatus
+
+Kelompok 7
+1. forum_topik
+2. forum_topik_edit
+3. forum_topik_hapus
+4. forum_topik_simpan
+5. forum_topik_tambah
+6. forum_topik_update
+
+Kelompok 8
+1. forum_diskusi
+2. forum_diskusi_editkomentar
+3. forum_diskusi_hapuskomentar
+4. forum_diskusi_simpankomentar
+5. forum_diskusi_updatekomentar 
+
+Kelompok 9
+1. forum_pesan
+2. forum_pesan_baca
+3. forum_pesan_cek
+4. forum_pesan_hapus
+5. forum_pesan_inbox
+6. forum_pesan_outbox
+7. forum_pesan_simpan
+8. forum_pesan_tulis
+
+Kelompok 10
+1. forum_galeri
+2. forum_galeri_edit
+3. forum_galeri_hapus
+4. forum_galeri_simpan
+5. forum_galeri_update
+
+Kelompok 11
+1. Folder asset
+2. Folder calender
+3. Folder cetak
+4. ckeditor
+5. Folder font
+6. Folder foto
+7. Folder galeri
+8. Folder images
